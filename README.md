@@ -4,11 +4,11 @@
 A little about me:
 - Data Scientist who loves to uncover the hidden insights that datasets, both small and large, contain! 
 - Skilled in Python, Pandas, NumPy, TensorFlow, PyTorch, AWS, Docker, ETL, Git, FastAPI and more!  
-- I'm currently trying to expand my understanding of SQL and Systems Design!
-- I'm obsessed with learning new things and in my free time can be found hiking with my dog, exercising, or playing video games(all while listening to a podcast)! 
+- Currently trying to expand my understanding of SQL and Systems Design!
+- Obsessed with learning new things and in my free time can be found hiking with my dog, exercising, or playing video games(all while listening to a podcast)! 
 How to reach me:
 - [My Website](timothyrcarroll.com)
-- [My Email(timrocar@gmail.com)
+- [My Email](timrocar@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/timothyrcarroll/)
 <!--
 **timrocar/timrocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
