@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/3owzWkGtQ3us1pV0qc/giphy.gif)
+<p align="center">
+  ![Alt Text](https://media.giphy.com/media/3owzWkGtQ3us1pV0qc/giphy.gif)
+</p>
 
 <!--
 **timrocar/timrocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
