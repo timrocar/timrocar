@@ -6,6 +6,7 @@ A little about me:
 - Skilled in Python, Pandas, NumPy, TensorFlow, PyTorch, AWS, Docker, ETL, Git, FastAPI and more!  
 - Currently trying to expand my understanding of SQL and Systems Design!
 - Obsessed with learning new things and in my free time can be found hiking with my dog, exercising, or playing video games(all while listening to a podcast)! 
+
 How to reach me:
 - [My Website](timothyrcarroll.com)
 - [My Email](timrocar@gmail.com)
