@@ -2,7 +2,7 @@
 
 ### Welcome to my github, I'm Tim! 
 A little about me:
-- Data Scientist who loves to uncover the hidden insights that datasets, both small and large, contain! 
+- Data professional who loves to uncover the hidden insights that datasets, both small and large, contain! 
 - Skilled in Python, Pandas, NumPy, TensorFlow, PyTorch, AWS, Docker, ETL, Git, FastAPI and more!  
 - Currently trying to expand my understanding of SQL and Systems Design!
 - Obsessed with learning new things and in my free time can be found hiking with my dog, exercising, or playing video games(all while listening to a podcast)! 
